@@ -40,3 +40,6 @@ bin-int
 .sln
 .vcxproj
 .vcxproj.filters
+
+# premake5
+!vendor/premake5/bin/premake5.exe
