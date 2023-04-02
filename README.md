@@ -44,7 +44,7 @@ You should have a new folder with your repository name created and the files ins
 
 This part is easy and fairly straight forward.
 
-<p>Run the [Setup.bat](/Setup.bat) file and you should see a windows command prompt screen open. As long as everything was done correctly you should see an output window similar to this with `GameExample` be the name of your project.</p>
+<p>Run the `Setup.bat` file and you should see a windows command prompt screen open. As long as everything was done correctly you should see an output window similar to this with `GameExample` be the name of your project.</p>
 
 ![ProjectSetupPremake5Output](/docs/images/project_setup_premake5_output.png?raw=true)
 
