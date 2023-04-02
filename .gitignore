@@ -27,7 +27,6 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 
@@ -42,4 +41,4 @@ bin-int
 .vcxproj.filters
 
 # premake5
-!vendor/premake5/bin/premake5.exe
+!vendor/premake5/bin/
