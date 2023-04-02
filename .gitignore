@@ -33,4 +33,10 @@
 
 # Files
 .vs
-build
+bin
+bin-int
+
+# Visual Studio files
+.sln
+.vcxproj
+.vcxproj.filters
