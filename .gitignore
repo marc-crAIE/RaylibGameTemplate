@@ -27,10 +27,15 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 
 # Files
 .vs
-build
+bin
+bin-int
+
+# Visual Studio files
+*.sln
+*.vcxproj
+*.vcxproj.filters
