@@ -28,7 +28,8 @@ Next you want to clone your new repository.
 ![GitCloneRepository](/docs/images/git_clone_repository.png?raw=true)
 
 Then in the Windows file explorer go to the directory where you want to clone your new repository to and open the command prompt Window in that directory.
-<p>An easy way to do this is to click on the address box next to search and type `cmd`</p>
+<br />
+An easy way to do this is to click on the address box next to search and type `cmd`
 
 ![FileExplorerCmd](/docs/images/file_explorer_cmd.png?raw=true)
 
@@ -43,8 +44,8 @@ You should have a new folder with your repository name created and the files ins
 <ins>**3. Setting up the project:**</ins>
 
 This part is easy and fairly straight forward.
-
-<p>Run the `Setup.bat` file and you should see a windows command prompt screen open. As long as everything was done correctly you should see an output window similar to this with `GameExample` be the name of your project.</p>
+<br\>
+Run the [Setup.bat](/Setup.bat) file and you should see a windows command prompt screen open. As long as everything was done correctly you should see an output window similar to this with `GameExample` be the name of your project.
 
 ![ProjectSetupPremake5Output](/docs/images/project_setup_premake5_output.png?raw=true)
 
