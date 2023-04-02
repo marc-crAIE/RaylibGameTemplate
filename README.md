@@ -4,7 +4,7 @@ The Raylib Game Template was created as an easy start to using Raylib. It is con
 ***
 
 ### Getting started
-This requires Visual Studio 2022 to be installed. If you do not have that installed already, you can download it here [Visual Stduio Community](https://visualstudio.microsoft.com/vs/community/)
+This requires Visual Studio 2022 to be installed. If you do not have that installed already, you can download it here [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
 
 <ins>**1. Setting up the repository:**</ins>
 
@@ -22,7 +22,7 @@ Afterwards you will be then greeted to the new repository.
 
 <ins>**2. Cloning your new repository:**</ins>
 
-Next you want to clone the repository.
+Next you want to clone your new repository.
 <p>First you need to get the URL to clone from. To do this just click the code button then click on the button next to the URL that ends with ".git"</p>
 
 ![GitCloneRepository](/docs/images/git_clone_repository.png?raw=true)
