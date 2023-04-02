@@ -36,9 +36,6 @@ bin
 bin-int
 
 # Visual Studio files
-.sln
-.vcxproj
-.vcxproj.filters
-
-# premake5
-!vendor/premake5/bin/
+*.sln
+*.vcxproj
+*.vcxproj.filters
