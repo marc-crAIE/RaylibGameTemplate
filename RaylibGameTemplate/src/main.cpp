@@ -18,6 +18,8 @@ int main()
 	{
 		// Update any variables here before drawing
 
+		ClearBackground(BLACK);
+
 		// Do all of our drawing in here
 		BeginDrawing();
 
